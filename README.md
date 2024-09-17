@@ -2,4 +2,4 @@
 Tuts Practice for git
 
 # Submary
- Watch Tuts
+ Watch Tutorials
